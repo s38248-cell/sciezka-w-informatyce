@@ -20,7 +20,7 @@ im interesting into programming and tinkering with computers in general and lear
 - use my skills to my advantage
 
 ## links
-[my ithub](https://github.com/s38248-cell)
+[my github](https://github.com/s38248-cell)
 
 
 

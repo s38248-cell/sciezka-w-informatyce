@@ -10,10 +10,8 @@ im interesting into programming and tinkering with computers in general and lear
 - have previously built multiple computers from scratch
 - used github but not much through the command line
 - hosted multiple local llm models on my computer
-- 
 
 ## goals for studies
-
 
 - get comfortable with a programming language like C#
 - learn the basics
